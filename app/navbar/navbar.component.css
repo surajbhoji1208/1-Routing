@@ -1,0 +1,15 @@
+mat-toolbar
+{   height: 40px;
+    background-color: rgb(113, 113, 249);
+}
+.parent
+{
+    flex: 1 1 auto;
+}
+#login
+{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+}
